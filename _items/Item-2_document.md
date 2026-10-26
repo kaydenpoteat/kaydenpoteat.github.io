@@ -6,7 +6,7 @@ author: "*"
 contributor: "Kayden Poteat"
 group: "Cane Creek Friends Meeting"
 creator: "Kayden Poteat"
-externalurl: https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024
+externalurl:
 embedurl: 
 creationdate: 2026-10-28
 type: "website"
